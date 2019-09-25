@@ -1,0 +1,140 @@
+7-zip
+access.lnk
+accessibility
+accessories
+acronis
+acronis true image 2015.lnk
+administrative tools
+adobe application manager.lnk
+adobe bridge cs6 (64bit).lnk
+adobe bridge cs6.lnk
+adobe extendscript toolkit cs6.lnk
+adobe extension manager cs6.lnk
+adobe illustrator cc 2015.lnk
+adobe photoshop cs6 (64 bit).lnk
+adobe photoshop cs6.lnk
+airwatch
+android studio
+audacity.lnk
+battlefield 4
+blend for visual studio 2017.lnk
+blizzard app
+brackets.lnk
+cmder.exe - shortcut.lnk
+codeblocks
+cpuid
+cygwin
+desktop.ini
+dual monitor tools
+epic games launcher (1).lnk
+epic games launcher.lnk
+evernote
+excel.lnk
+filezilla ftp client
+fraps
+games
+gamesessions
+garlium.lnk
+git
+google chrome.lnk
+hp
+image writer
+immersive control panel.lnk
+java
+java development kit
+jetbrains
+lightshot
+lightworks
+logitech
+maintenance
+mail
+malwarebytes
+microsoft office 2016 tools
+minecraft
+mozilla firefox.lnk
+node.js
+notepad++
+novabench
+nvidia corporation
+office timeline
+onedrive for business.lnk
+onenote 2016.lnk
+openshot video editor.lnk
+origin
+outlook.lnk
+overwatch
+pokerstars
+powerpoint.lnk
+publisher.lnk
+pyqt gpl v4.10.3 for python v2.7 (x64)
+pyqt gpl v4.11.4 for python v3.4 (x64)
+python 2.7
+python 3.5
+python 3.6
+razer
+realvnc
+revo uninstaller pro
+rockstar games
+scorecloud studio.lnk
+screentogif.exe.lnk
+skype for business.lnk
+startup
+steam
+sublime text 3.lnk
+system tools
+teamspeak 3 client.lnk
+teamviewer 12.lnk
+ti tools
+tightvnc
+togethr.tv
+treesize free
+unity 2017.4.0f1 (64-bit)
+visual studio 2017
+visual studio 2017.lnk
+visual studio code
+visual studio installer.lnk
+vpn unlimited
+webstorm
+windows kits
+windows media player.lnk
+winpcap
+winrar
+wondershare
+word.lnk
+accessibility
+accessories
+administrative tools
+anthemscore
+atlassian
+blender
+chrome apps
+codeblocks
+crucial storage executive
+desktop.ini
+discord inc
+eclipse
+f.lux.lnk
+gluon
+google chrome canary.lnk
+hammer & chisel, inc
+jetbrains toolbox
+maintenance
+msi afterburner
+musescore 2
+onedrive.lnk
+overwolf
+postman
+python 3.5
+rivatuner statistics server
+star citizen launcher
+startup
+steam
+symmover
+system tools
+twitch.lnk
+ubisoft
+warframe
+windft
+windows powershell
+winrar
+calculator
